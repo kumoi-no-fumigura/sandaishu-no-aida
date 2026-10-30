@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sandaishu-no-aida",
  "yomi": "さんだいしゅうのあいだのこと",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌学書",
+  "era": "貞応元年（1222）9月",
+  "author": "藤原定家",
+  "desc": "古今・後撰・拾遺の三代集の作者や語句について、家の説と他説の違いを記した書。奥書に定家の名と貞応元年の日付があり、細川幽斎の書写奥書も付く。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -97,6 +102,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
